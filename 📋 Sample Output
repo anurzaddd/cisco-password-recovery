@@ -1,0 +1,28 @@
+=================================================================
+🛡️  Cisco Catalyst 2960 Password Recovery Tool
+=================================================================
+⚠️  ONLY for authorized administrators with PHYSICAL access
+=================================================================
+
+[✓] Checking prerequisites...
+    ✓ Console cable connected
+    ✓ Terminal emulation software ready
+    ✓ Settings: 9600 baud, 8 data bits, No parity, 1 stop bit
+
+⏎  Press Enter when ready...
+
+=================================================================
+📍 Step 1: Power Cycle
+=================================================================
+1️⃣  Power off the switch (unplug power cable).
+2️⃣  Press and hold the Mode button (left side of front panel).
+3️⃣  While holding Mode, reconnect the power cable.
+4️⃣  Release Mode when SYST LED blinks amber then turns solid green.
+
+💡 If done correctly, you'll see:
+   'The system has been interrupted prior to initializing the flash'
+   and the prompt changes to 'switch:'
+
+⏎  Press Enter after completing this step...
+
+... (continues through all 6 steps)
